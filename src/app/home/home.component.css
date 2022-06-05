@@ -1,0 +1,14 @@
+#frm {
+    background: url('src\images\img1.png') ;
+    background-color: black;
+}
+#back {
+     /* background: url('src\images\img1.png') ;  */
+    background-color: brown;
+    
+} 
+#col {
+    /* background: url('src\images\img1.png') ;  */
+   color: brown;
+   position:absolute;
+} 
